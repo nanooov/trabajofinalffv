@@ -1,0 +1,43 @@
+.Locales {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(180deg,  #e7e7e7, #555555);
+    padding-bottom: 100px;
+    padding-top: 100px;
+  }
+  
+  .gralLocales {
+    display: flex;
+    flex-wrap: wrap;
+    width: 75%;
+    justify-content: center;
+    
+    
+  }
+  .Locales p {
+    color: #3f3f3f;
+    font-size: 1.4em;
+    
+  }
+  
+  .LocalesTitle {
+    font-size: 2em;
+    font-weight: 400;
+    color: #2e2e2e;
+    font-weight: 600;
+   
+  }
+  
+  .boxLocales {
+    border: 2.5px solid #000000;
+    box-shadow: -1px 1px 36px 1px rgba(0,0,0,0.48);
+     -webkit-box-shadow: -1px 1px 36px 1px rgba(0,0,0,0.48);
+     -moz-box-shadow: -1px 1px 36px 1px rgba(0,0,0,0.48);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px;
+    background-color: #b4b4b4;
+    
+  }
+  
